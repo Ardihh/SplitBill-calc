@@ -63,4 +63,4 @@ Aplikasi ini dibuat untuk:
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/Ardihh/splitbill-calc.git
+   git clone https://github.com/Ardihh/SplitBill-calc.git
